@@ -1,22 +1,21 @@
 ---
 home: true
 heroImage: /twin.jpg
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
+heroText: Welcome My Channel
+tagline: 黄鹂鸣翠柳
+actionText: 进入Channel →
 actionLink: /guide/
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 工作
+  details: How to create a great PPT? How to work efficiency ?
+- title: 学习
+  details: 为什么要先制定Interface，后去实现；为什么要制定不同的层级和模块？
+- title: 生活
+  details: 普通人在Peking的吃喝玩乐。
 footer: MIT Licensed | Copyright © 2023-present Xu Huang
 ---
 
-# Hello VuePress
-
+Let's Start!
 
 ::: slot footer
 MIT Licensed | Copyright © 2023-present [Xu Huang](https://github.com/holdonbaby)
