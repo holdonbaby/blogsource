@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "hx blog",
+  "main": "index.js",
+  "author": "huangxu",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
+  }
+}

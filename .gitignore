@@ -1,0 +1,9 @@
+# Build folder and log file
+build/
+build.log
+
+# 忽略node_modules
+/node_modules/*
+
+# 忽略生成的dist
+/docs/.vuepress/dist/*
