@@ -89,6 +89,7 @@ module.exports = {
               { text: 'ByteDance', link: '/work/bytedance/' }
             ]
           },
+            { text: 'Algorithm', link: '/algorithm/' },
             { text: 'Interview', link: '/interview/' },
             { text: 'Food', link: '/food/' },
             { text: 'Play', link: '/play/' },
