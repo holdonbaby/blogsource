@@ -1,9 +1,7 @@
 ---
-title: 娱乐
+title: 技巧
 lang: en-US
 sidebarDepth: 2
 ---
 
-# 须知
-
-娱乐
+# 技巧

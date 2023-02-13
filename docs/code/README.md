@@ -1,4 +1,6 @@
 ---
+title: Code Channel
+lang: en-US
 sidebarDepth: 1
 ---
 

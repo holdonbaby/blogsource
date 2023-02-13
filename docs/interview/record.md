@@ -1,9 +1,8 @@
 ---
-title: 娱乐
+title: 记录
 lang: en-US
 sidebarDepth: 2
 ---
 
-# 须知
+# 记录
 
-娱乐

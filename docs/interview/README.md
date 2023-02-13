@@ -1,9 +1,9 @@
-# Hello, this is my channel
+---
+title: 面试
+lang: en-US
+sidebarDepth: 2
+---
 
-you can study knowledge in my channel, in the following
-- Code(Golang)
-- Algorithm
-- Work Content
-- Interview
-- Food(Peking)
-- Play(Peking)
+# 须知
+
+本节有 面试记录和技巧

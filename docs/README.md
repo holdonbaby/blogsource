@@ -4,7 +4,7 @@ heroImage: /twin.jpg
 heroText: Welcome My Channel
 tagline: 黄鹂鸣翠柳
 actionText: 进入Channel →
-actionLink: /guide/
+actionLink: /code/
 features:
 - title: 工作
   details: How to create a great PPT? How to work efficiency ?
