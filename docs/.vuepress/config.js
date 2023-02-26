@@ -20,6 +20,12 @@ module.exports = {
               'golang/',  /* /foo/one.html */
               'python/'
             ],
+            '/ubuntu/': [
+              '',     /* /foo/ */
+              'operation',  /* /foo/one.html */
+              'wsl',
+              'tools'
+            ],
             
             // food group
             '/food/': [
@@ -36,12 +42,6 @@ module.exports = {
             '/work/bytedance/': [
               '',     /* /foo/ */
               'status'  /* /foo/one.html */
-            ],
-            // food group
-            '/food/': [
-              '',      /* /bar/ */
-              // 'record', /* /bar/three.html */
-              // 'skill'   /* /bar/four.html */
             ],
             
             // interview group
@@ -91,8 +91,8 @@ module.exports = {
           },
             { text: 'Algorithm', link: '/algorithm/' },
             { text: 'Interview', link: '/interview/' },
-            { text: 'Food', link: '/food/' },
-            { text: 'Play', link: '/play/' },
+            { text: 'Ubuntu', link: '/ubuntu/' },
+            { text: '玩乐', link: '/play/' },
             { text: 'Guide', link: '/guide/' },
             { text: '友链', link: 'https://go.dev/' },
           ],
