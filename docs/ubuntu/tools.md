@@ -26,6 +26,8 @@ linux上有许多工具，帮助开发人员增加效率，完成开发-测试-�
 
 下载工具，用的较少，一般用来下载apt无法直接install的软件/文件
 
+wget uri/source.zip -O /your_pc_path/source.zip
+
 ## apt/apt-get
 
 下载和安装一体化工具

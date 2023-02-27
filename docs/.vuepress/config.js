@@ -1,8 +1,13 @@
 module.exports = {
     title: 'wry丶hx',
     description: 'Just playing around',
+    head:[
+      [
+        'link',{rel:'icon',href:'/favicon.ico'}
+      ]
+    ],
     themeConfig: {
-        logo: '/icon.png',
+        logo: '/pilot-bust.svg',
         sidebar: {
           // code group
             '/code/golang/': [

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /twin.jpg
+heroImage: /bird.jpg
 heroText: Welcome My Channel
 tagline: 黄鹂鸣翠柳
 actionText: 进入Channel →
