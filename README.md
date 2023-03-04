@@ -7,3 +7,7 @@
 问题二，问题一换一个热点连接，就可以上传的问题，有点sb，不知道为什么，也不知道咋解决。
 
 已全部解决:https://stackoverflow.com/questions/7953806/github-ssh-via-public-wifi-port-22-blocked
+
+## 多端使用(已经废弃)
+
+不再多端使用，该blog的源码只在windows平台运行
