@@ -6,8 +6,4 @@ sidebarDepth: 2
 
 # 状态
 
-岗位:SRE
-
-类型:实习
-
-薪资:400/day
+SRE组的研发，杂活

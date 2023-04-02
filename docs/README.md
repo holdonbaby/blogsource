@@ -2,16 +2,16 @@
 home: true
 heroImage: /bird.jpg
 heroText: Welcome My Channel
-tagline: 黄鹂鸣翠柳
+tagline: 从不熬夜
 actionText: 进入Channel →
 actionLink: /code/
 features:
 - title: 工作
-  details: How to create a great PPT? How to work efficiency ?
+  details: 记录下占据现在一天百分之50时间的事情
 - title: 学习
-  details: 为什么要先制定Interface，后去实现；为什么要制定不同的层级和模块？
+  details: 工作后很少学习，写在这里督促自己
 - title: 生活
-  details: 普通人在Peking的吃喝玩乐。
+  details: =周末陪对象
 footer: MIT Licensed | Copyright © 2023-present Xu Huang
 ---
 

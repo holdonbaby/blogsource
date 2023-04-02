@@ -10,3 +10,4 @@ code is tool, make tool xxx is important.
 - Golang
 - CPP
 - Python
+- Rust
