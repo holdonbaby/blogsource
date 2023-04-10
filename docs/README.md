@@ -7,7 +7,7 @@ actionText: 进入Channel →
 actionLink: /code/
 features:
 - title: 工作
-  details: 记录下占据现在一天百分之50时间的事情
+  details: 记录占据现在一天百分之50时间点滴
 - title: 学习
   details: 工作后很少学习，写在这里督促自己
 - title: 生活

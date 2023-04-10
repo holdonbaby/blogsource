@@ -8,17 +8,17 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/pilot-bust.svg',
-        sidebar: {'/work/xiaomi/':['','status'],'/work/bytedance/':['','status'],'/work/':['','bytedance/','xiaomi/'],'/ubuntu/':['','operation','tools','wsl'],'/ppt/':[''],'/play/':[''],'/interview/':['','record','skill'],'/guide/':['','about','config','contact'],'/code/rust/':['','type'],'/code/python/':['','type'],'/code/golang/':['','type'],'/code/':['','golang/','python/','rust/'],'/algorithm/':['']},
+        sidebar: {'/algorithm/':[''],'/code/':['','golang','python','rust'],'/code/golang/':['','type.md'],'/code/python/':['','type.md'],'/code/rust/':['','type.md'],'/guide/':['','about.md','config.md','contact.md'],'/interview/':['','record.md','skill.md'],'/play/':[''],'/ppt/':[''],'/ubuntu/':['','operation.md','tools.md','wsl.md'],'/work/':['','bytedance','xiaomi'],'/work/bytedance/':['','status.md'],'/work/xiaomi/':['','status.md']},
         nav: [
           {
             text: 'Code',
             ariaLabel: 'Code Menu',
-            items: [{ text: 'rust', link: '/code/rust/' },{ text: 'python', link: '/code/python/' },{ text: 'golang', link: '/code/golang/' }]
+            items: [{ text: 'golang', link: '/code/golang/' },{ text: 'python', link: '/code/python/' },{ text: 'rust', link: '/code/rust/' }]
           },
           {
             text: 'Work',
             ariaLabel: 'Work Menu',
-            items: [{ text: 'xiaomi', link: '/work/xiaomi/' },{ text: 'bytedance', link: '/work/bytedance/' }]
+            items: [{ text: 'bytedance', link: '/work/bytedance/' },{ text: 'xiaomi', link: '/work/xiaomi/' }]
           },
             { text: 'Algorithm', link: '/algorithm/' },
             { text: 'Interview', link: '/interview/' },
